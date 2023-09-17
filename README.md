@@ -12,7 +12,7 @@ This project is a simple implementation of the Rock, Paper, and Scissors game us
 
 ## Demo
 
-You can see a live demo of the project [here](rock-paper-scissors-sherri190.netlify.app).
+You can see a live demo of the project [here](https://rock-paper-scissors-sherri190.netlify.app/).
 
 ## Features
 
